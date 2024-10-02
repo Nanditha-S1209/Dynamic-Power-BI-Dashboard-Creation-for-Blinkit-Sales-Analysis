@@ -10,5 +10,3 @@ This project involves the creation of a dynamic and interactive dashboard in Pow
 - Filtering and visualization options available in Power BI for detailed analysis
 - Users can filter data by total sales, number of items, average sales, average rating, Outlet filters, Outlet size, and item type
 - Multiple selection options available for filtering, and a clear button to reset filters for comprehensive data analysis
-
-This project tutorial provides a step-by-step guide for creating a dynamic Power BI dashboard for online grocery store sales analysis, allowing users to gain insights into sales performance and make data-driven decisions.
